@@ -1,0 +1,45 @@
+.container{
+    text-align: center;
+    color: rgb(239, 243, 243);
+    background-color: black;
+}
+span{
+    color: aqua;
+}
+.row1{
+    display: flex;
+    justify-content: center;
+}
+.row2{
+    display: flex;
+    justify-content: center;
+}
+.row3{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    height: 100px;
+    width: 100px;
+    border-color: aqua;
+    background-color: rgba(112, 102, 90, 0.566);
+    margin: 2px;
+    border-radius: 10px;
+}
+.reset{
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: aqua;
+    color: black;
+    font-weight: bold;
+    margin-top: 10px;
+    font-size: large;
+}
+.btn img{
+    height: 50px;
+}
+.title img{
+    height: 50px;
+    margin-top: 30px;
+}
